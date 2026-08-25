@@ -1,0 +1,92 @@
+{
+  "basics": {
+    "name": "M.Sc. Esteban J. Reyes Klapka",
+    "label": "Senior Enterprise, SAP und AI Architect",
+    "email": "ejklapka@gmail.com",
+    "phone": "+49 151 10196771",
+    "summary": "Ueber 18 Jahre Erfahrung im Enterprise- und SAP-Umfeld. Ich kombiniere taffe Architektur-Expertise mit moderner KI-Orchestrierung. Meine Staerke liegt im Loesen komplexer technischer Herausforderungen und im Verbinden von Legacy-Systemen mit zukunftssicheren Cloud- und KI-Landschaften.",
+    "location": {
+      "city": "Furtwangen",
+      "region": "Baden-Wuerttemberg",
+      "countryCode": "DE"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "esteban-reyes-klapka",
+        "url": "https://www.linkedin.com/in/esteban-reyes-b4492a42/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Robert Bosch GmbH",
+      "position": "SAP Technology Architect und AI Developer",
+      "startDate": "2022-10-01",
+      "summary": "Fokus auf moderne Enterprise-Architektur, Cloud-Integration und Kuenstliche Intelligenz im SAP- und Multicloud-Umfeld.",
+      "highlights": [
+        "KI-gestuetzte Architektur-Tools: Entwicklung eigener KI-Tools und Gemini-Agenten (inkl. Entscheidungsunterstuetzungsmodellen fuer SAP RISE Kostenschaetzungen) zur Optimierung der Architekturplanung und betrieblicher Entscheidungen.",
+        "Prozessharmonisierung und Governance: Leitung der globalen Harmonisierung von Standardprozessen (SOPs) in der SAP-Landschaft via Jira zur Abstimmung von Fachanforderungen und IT-Kapazitaeten.",
+        "Service Management und Incident-Prozesse: Konzeption von End-to-End Incident-Management- und Ticket-Prozessen ueber ITSM-Plattformen (ServiceNow/SMT) sowie das SAP Support Portal.",
+        "Security Operations: Ueberwachung der SIEM-Implementierung und -Architektur zur Staerkung der Sicherheitsüberwachung im SAP-Umfeld."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Hochschule Furtwangen",
+      "area": "Informatik",
+      "studyType": "Master of Science (M.Sc.)"
+    },
+    {
+      "institution": "Universidad Simón Bolívar",
+      "area": "Computeringenieurwesen / Computer Engineering",
+      "studyType": "Ingenieur / Diplom"
+    }
+  ],
+  "skills": [
+    {
+      "name": "SAP Basis Administrator und SAP Architecture (18 Jahre)",
+      "keywords": [
+        "SAP Architecture und Operations",
+        "SAP BTP Solution Architecture",
+        "AWS (Certified Cloud Practitioner)",
+        "System Integration"
+      ]
+    },
+    {
+      "name": "AI Strategy und Automation",
+      "keywords": [
+        "Cognigy (Mastery Track certified)",
+        "Conversational AI",
+        "LLM Orchestration"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanisch",
+      "fluency": "Muttersprache"
+    },
+    {
+      "language": "Deutsch",
+      "fluency": "C1 (Verhandlungssicher)"
+    },
+    {
+      "language": "Englisch",
+      "fluency": "C1 (Verhandlungssicher)"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Side Quests und Passions",
+      "keywords": [
+        "Ninjutsu",
+        "Klavier",
+        "Kochen",
+        "Tanzen",
+        "Naturheilkunde"
+      ]
+    }
+  ]
+}
