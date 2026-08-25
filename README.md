@@ -2,7 +2,7 @@
 
 > *"18 Jahre Enterprise-Architektur treffen auf KI-Hands-on-Mentalität: Keine Floskeln, sondern tragfähige Systeme und smarter Code."*
 
-Ich bin **Esteban Reyes** (M.Sc. Informatik). Seit über 18 Jahren bewege ich mich im SAP- & IT-Umfeld – aktuell als **SAP Technology Architect** bei der Robert Bosch GmbH. 
+Ich bin **Esteban Reyes** (M.Sc. Wirtschaftsinformatik). Seit über 18 Jahren bewege ich mich im SAP- & IT-Umfeld – aktuell als **SAP Technology Architect** bei der Robert Bosch GmbH. 
 
 Mein Schwerpunkt liegt im **Design komplexer Enterprise-Architekturen, Systemintegrationen und der strategischen Einbindung von KI**. Da ich es liebe, knifflige Aufgaben gelöst zu sehen, nutze ich KI-Tools nicht nur in der Theorie, sondern baue damit auch selbst pragmatische Prototypen – so wie dieses CLI-Skript.
 
